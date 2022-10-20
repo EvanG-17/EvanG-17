@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evang-17&label=Profile%20views&color=0e75b6&style=flat" alt="evang-17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evang-17" alt="evang-17" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evan-geary-425a87250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan-geary-425a87250" height="30" width="40" /></a>
@@ -15,7 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evang-17&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="evang-17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evang-17&show_icons=true&theme=radical&title_color=02ed06&text_color=17deac&bg_color=fcfcfc&locale=en" alt="evang-17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evang-17&show_icons=true&theme=radical&title_color=0df8b1&text_color=000000&bg_color=fcfcfc&hide_border=true&locale=en" alt="evang-17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evang-17&" alt="evang-17" /></p>
-
